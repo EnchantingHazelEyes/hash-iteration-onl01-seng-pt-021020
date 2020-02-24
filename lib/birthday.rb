@@ -11,5 +11,6 @@ def happy_birthday(birthday_kids)
 end
 
 def age_appropriate_birthday(age)
-  
+  age each do |kids_name, age|
+    puts ""
 end
